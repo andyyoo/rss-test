@@ -11,5 +11,12 @@
       <pubDate>Tue, 24 Mar 2026 13:00:00 +0900</pubDate>
       <guid>1</guid>
     </item>
+    <item>
+      <title>テスト投稿2</title>
+      <link>https://andyyoo.github.io/rss-test/post2</link>
+      <description>2番目の投稿</description>
+      <pubDate>Tue, 24 Mar 2026 13:30:00 +0900</pubDate>
+      <guid>2</guid>
+    </item>
   </channel>
 </rss>
