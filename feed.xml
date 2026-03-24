@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>テストRSSフィード</title>
+    <link>https://andyyoo.github.io/rss-test/feed.xml</link>
+    <description>これはテスト用フィードです。</description>
+    <item>
+      <title>テスト投稿1</title>
+      <link>https://andyyoo.github.io/rss-test/post1</link>
+      <description>最初の投稿</description>
+      <pubDate>Tue, 24 Mar 2026 13:00:00 +0900</pubDate>
+      <guid>1</guid>
+    </item>
+  </channel>
+</rss>
